@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [Java](#java)
 *   [Shell](#shell)
 *   [Vue](#vue)
-*   [TypeScript](#typescript)
 *   [HTML](#html)
 *   [Roff](#roff)
 *   [Python](#python)
@@ -21,139 +21,25 @@
 *   [Objective-C](#objective-c)
 *   [C++](#c)
 
-## JavaScript
+## TypeScript
 
-*   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
-*   [au-to/notebook](https://github.com/au-to/notebook) - Some study notes
+*   [liangdabiao/wordpress\_kefu\_ai\_agent](https://github.com/liangdabiao/wordpress_kefu_ai_agent) - 自适应智能客服项目（Agentic agent）。不用coze/dify，适合程序员的智能客服，自己编程做一个可控的能够完成工作的客服，只需要2个简单文件，稍微配置一下就实现.适合wordpress /其他的
 
-*   [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - vue2 + vue-router + vuex  入门项目
+*   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
 
-*   [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
+*   [daggerok/frontend-maven-plugin-example](https://github.com/daggerok/frontend-maven-plugin-example) - frontend-maven-plugin usage
 
-*   [lzxjack/FlexBox](https://github.com/lzxjack/FlexBox) - 动态展示flex布局中容器属性的作用，直观明了！
+*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
 
-*   [kenberkeley/vue-demo](https://github.com/kenberkeley/vue-demo) - Vue.js 示例项目 · 简易留言板。本项目拥有完善的文档说明与注释，让您快速上手 Vue.js 开发 SPA。Webpack / ES6 + Babel / Vue Router / (Vue Resource?) / (Vue Validator?) / (Vuex?)  —— An Excellent Vue Starter with Best Practice / 最佳实践
+*   [fjc0k/docker-YApi](https://github.com/fjc0k/docker-YApi) - 接口管理平台 YApi 的 Docker 镜像。
 
-*   [liangxiaojuan/vue-todos](https://github.com/liangxiaojuan/vue-todos) - vue最新实战项目教程，从零开始，一步一个脚印,循序渐进。跟着我一起学习vue吧！
-
-*   [dromara/skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统\[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
-
-*   [shuhongfan/GuliMall](https://github.com/shuhongfan/GuliMall) - gulimall（谷粒商城） 项目是一套电商项目，包括前台商城系统以及后台管理系统，基于 SpringCloud + SpringCloudAlibaba + MyBatis-Plus实现，采用 Docker 容器化部署。前台商城系统包括：用户登录、注册、商品搜索、商品详情、购物车、下订单流程、秒杀活动等模块。后台管理系统包括：系统管理、商品系统、优惠营销、库存系统、订单系统、用户系统、内容管理等七大模块。
-
-*   [webpack-contrib/terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser Plugin
-
-*   [samblake/terser-maven-plugin](https://github.com/samblake/terser-maven-plugin) - Terser minification plugin for Maven
-
-*   [debezium/debezium-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc.)
-
-*   [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
-
-*   [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-
-*   [davidB/yuicompressor-maven-plugin](https://github.com/davidB/yuicompressor-maven-plugin) - maven's plugin to compress (Minify / Ofuscate / Aggregate) Javascript files and CSS files using YUI Compressor
-
-*   [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
-
-*   [isaranchuk/spring-websocket-disconnect](https://github.com/isaranchuk/spring-websocket-disconnect) - Demo to show how to close websocket session via spring-websocket
-
-*   [salmar/spring-websocket-chat](https://github.com/salmar/spring-websocket-chat) - Chat application using Spring WebSockets
-
-*   [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no\_entry\_sign:
-
-*   [baizn/translation.js](https://github.com/baizn/translation.js) - 用同一个方法调用多种翻译接口如百度翻译、谷歌翻译、必应翻译等。
-
-*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-
-*   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-
-*   [pamelafox/lscache](https://github.com/pamelafox/lscache) - A localStorage-based memcache-inspired client-side caching library.
-
-*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-
-*   [annnhan/ReRes](https://github.com/annnhan/ReRes) - Change the response of the request.
-
-*   [luoquanquan/musicInterface](https://github.com/luoquanquan/musicInterface) - 个人经历实属有限, 无力维护这个项目了, 如果有感兴趣的同学欢迎一起来搞~
-
-*   [fffffffee/tingda](https://github.com/fffffffee/tingda) - 一个将录音或视频转录为文字的免费应用
-
-*   [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the viewport. Written in plain "vanilla" JavaScript, it leverages IntersectionObserver, supports responsive images and enables native lazy loading.
-
-## miscellaneous
-
-*   [zhjrate/yshop-drink](https://github.com/zhjrate/yshop-drink) - yshop意向点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，基础技术Java，uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统
-
-*   [spring-ai-community/awesome-spring-ai](https://github.com/spring-ai-community/awesome-spring-ai) - A curated list of awesome resources, tools, tutorials, and projects for building generative AI applications using Spring AI
-
-*   [webVueBlog/webVueBlog](https://github.com/webVueBlog/webVueBlog) - 🌱 面向 🤔 JavaScript爱好人员提供：👋 原创内容、JavaScript、HTML5、Node.js、Vue.js、React等一系列教程和经验分享 👍。
-
-*   [Sweet-KK/css-layout](https://github.com/Sweet-KK/css-layout) - 各种常见布局CSS实现,知名网站布局分析,相关阅读推荐
-
-*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
-
-*   [cuizhenjie/software-engineering-document](https://github.com/cuizhenjie/software-engineering-document) - 软件工程常用文档模板及示例：可行性分析报告、开发计划、需求分析文档、概要设计文档、详细设计文档、用户操作手册、测试计划、测试分析报告、开发进度报告、项目开发总结报告、软件维护手册等
-
-*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
-
-*   [BookaiCode/JavaRecord](https://github.com/BookaiCode/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
-
-*   [xgit01/sgkrank](https://github.com/xgit01/sgkrank) - 2024最新免费社工库排行
-
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-
-*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
-
-*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [Admol/SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide）
-
-*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
-
-*   [EthanLin-TWer/ielts](https://github.com/EthanLin-TWer/ielts) - IELTS guide and Cambridge English authentic examination papers (4-15, A+G) for programmers. 程序员雅思备考指南+剑雅4-15真题（A类+G类）全套。
-
-*   [wukaipeng-dev/IELTS](https://github.com/wukaipeng-dev/IELTS) - 🎇 雅思讲解、资料、备考
-
-*   [apache/flink-connector-redis-streams](https://github.com/apache/flink-connector-redis-streams) - Apache flink
-
-*   [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
-
-*   [Fooxi/ttest](https://github.com/Fooxi/ttest) - 个人数据泄漏检测网站，适用于 QQ / 京东 / 顺丰 / 微博。
-
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-*   [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
-
-*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
-
-*   [Greatandy/leetcode](https://github.com/Greatandy/leetcode) -
-
-*   [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
-
-*   [cosen1024/Java-Interview](https://github.com/cosen1024/Java-Interview) - 「Java面试小抄」一份通向理想互联网公司的面试汇总，包括 Java基础、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、计算机操作系统、计算机网络、系统设计、分布式、Java 项目实战等
-
-*   [lokles/Web-Development-Interview-With-Java](https://github.com/lokles/Web-Development-Interview-With-Java) - Java 开发相关技术栈（大中厂）高频面试问题收录。
-
-*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
-
-*   [xbox1994/Java-Interview](https://github.com/xbox1994/Java-Interview) - 经历BAT面试后总结的【高级Java后台开发面试指南】，纯净干货无废话，针对高频面试点
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-
-*   [Thestrangercamus/On-constitution-amendment-NO.1](https://github.com/Thestrangercamus/On-constitution-amendment-NO.1) -
-
-*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-
-*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
+*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 
 ## Java
+
+*   [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 
 *   [ccmjga/zhilu-admin](https://github.com/ccmjga/zhilu-admin) - 🔥 通过 AI 驱动的新一代后台管理系统（Java21+Vue3.5）
 
@@ -465,7 +351,137 @@
 
 *   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 
-*   [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
+## JavaScript
+
+*   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
+
+*   [au-to/notebook](https://github.com/au-to/notebook) - Some study notes
+
+*   [bailicangdu/vue2-happyfri](https://github.com/bailicangdu/vue2-happyfri) - vue2 + vue-router + vuex  入门项目
+
+*   [bailicangdu/node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb.  基于 node.js + Mongodb 构建的后台系统
+
+*   [lzxjack/FlexBox](https://github.com/lzxjack/FlexBox) - 动态展示flex布局中容器属性的作用，直观明了！
+
+*   [kenberkeley/vue-demo](https://github.com/kenberkeley/vue-demo) - Vue.js 示例项目 · 简易留言板。本项目拥有完善的文档说明与注释，让您快速上手 Vue.js 开发 SPA。Webpack / ES6 + Babel / Vue Router / (Vue Resource?) / (Vue Validator?) / (Vuex?)  —— An Excellent Vue Starter with Best Practice / 最佳实践
+
+*   [liangxiaojuan/vue-todos](https://github.com/liangxiaojuan/vue-todos) - vue最新实战项目教程，从零开始，一步一个脚印,循序渐进。跟着我一起学习vue吧！
+
+*   [dromara/skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统\[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
+
+*   [shuhongfan/GuliMall](https://github.com/shuhongfan/GuliMall) - gulimall（谷粒商城） 项目是一套电商项目，包括前台商城系统以及后台管理系统，基于 SpringCloud + SpringCloudAlibaba + MyBatis-Plus实现，采用 Docker 容器化部署。前台商城系统包括：用户登录、注册、商品搜索、商品详情、购物车、下订单流程、秒杀活动等模块。后台管理系统包括：系统管理、商品系统、优惠营销、库存系统、订单系统、用户系统、内容管理等七大模块。
+
+*   [webpack-contrib/terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser Plugin
+
+*   [samblake/terser-maven-plugin](https://github.com/samblake/terser-maven-plugin) - Terser minification plugin for Maven
+
+*   [debezium/debezium-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc.)
+
+*   [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
+
+*   [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
+
+*   [davidB/yuicompressor-maven-plugin](https://github.com/davidB/yuicompressor-maven-plugin) - maven's plugin to compress (Minify / Ofuscate / Aggregate) Javascript files and CSS files using YUI Compressor
+
+*   [sockjs/sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client
+
+*   [isaranchuk/spring-websocket-disconnect](https://github.com/isaranchuk/spring-websocket-disconnect) - Demo to show how to close websocket session via spring-websocket
+
+*   [salmar/spring-websocket-chat](https://github.com/salmar/spring-websocket-chat) - Chat application using Spring WebSockets
+
+*   [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no\_entry\_sign:
+
+*   [baizn/translation.js](https://github.com/baizn/translation.js) - 用同一个方法调用多种翻译接口如百度翻译、谷歌翻译、必应翻译等。
+
+*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+
+*   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+
+*   [pamelafox/lscache](https://github.com/pamelafox/lscache) - A localStorage-based memcache-inspired client-side caching library.
+
+*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+
+*   [annnhan/ReRes](https://github.com/annnhan/ReRes) - Change the response of the request.
+
+*   [luoquanquan/musicInterface](https://github.com/luoquanquan/musicInterface) - 个人经历实属有限, 无力维护这个项目了, 如果有感兴趣的同学欢迎一起来搞~
+
+*   [fffffffee/tingda](https://github.com/fffffffee/tingda) - 一个将录音或视频转录为文字的免费应用
+
+*   [verlok/vanilla-lazyload](https://github.com/verlok/vanilla-lazyload) - LazyLoad is a lightweight, flexible script that speeds up your website by deferring the loading of your below-the-fold images, backgrounds, videos, iframes and scripts to when they will enter the viewport. Written in plain "vanilla" JavaScript, it leverages IntersectionObserver, supports responsive images and enables native lazy loading.
+
+## miscellaneous
+
+*   [zhjrate/yshop-drink](https://github.com/zhjrate/yshop-drink) - yshop意向点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，基础技术Java，uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统
+
+*   [spring-ai-community/awesome-spring-ai](https://github.com/spring-ai-community/awesome-spring-ai) - A curated list of awesome resources, tools, tutorials, and projects for building generative AI applications using Spring AI
+
+*   [webVueBlog/webVueBlog](https://github.com/webVueBlog/webVueBlog) - 🌱 面向 🤔 JavaScript爱好人员提供：👋 原创内容、JavaScript、HTML5、Node.js、Vue.js、React等一系列教程和经验分享 👍。
+
+*   [Sweet-KK/css-layout](https://github.com/Sweet-KK/css-layout) - 各种常见布局CSS实现,知名网站布局分析,相关阅读推荐
+
+*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
+
+*   [cuizhenjie/software-engineering-document](https://github.com/cuizhenjie/software-engineering-document) - 软件工程常用文档模板及示例：可行性分析报告、开发计划、需求分析文档、概要设计文档、详细设计文档、用户操作手册、测试计划、测试分析报告、开发进度报告、项目开发总结报告、软件维护手册等
+
+*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
+
+*   [BookaiCode/JavaRecord](https://github.com/BookaiCode/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
+
+*   [xgit01/sgkrank](https://github.com/xgit01/sgkrank) - 2024最新免费社工库排行
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+
+*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
+
+*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [Admol/SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide）
+
+*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+
+*   [EthanLin-TWer/ielts](https://github.com/EthanLin-TWer/ielts) - IELTS guide and Cambridge English authentic examination papers (4-15, A+G) for programmers. 程序员雅思备考指南+剑雅4-15真题（A类+G类）全套。
+
+*   [wukaipeng-dev/IELTS](https://github.com/wukaipeng-dev/IELTS) - 🎇 雅思讲解、资料、备考
+
+*   [apache/flink-connector-redis-streams](https://github.com/apache/flink-connector-redis-streams) - Apache flink
+
+*   [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+
+*   [Fooxi/ttest](https://github.com/Fooxi/ttest) - 个人数据泄漏检测网站，适用于 QQ / 京东 / 顺丰 / 微博。
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+*   [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
+
+*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+
+*   [Greatandy/leetcode](https://github.com/Greatandy/leetcode) -
+
+*   [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
+
+*   [cosen1024/Java-Interview](https://github.com/cosen1024/Java-Interview) - 「Java面试小抄」一份通向理想互联网公司的面试汇总，包括 Java基础、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、计算机操作系统、计算机网络、系统设计、分布式、Java 项目实战等
+
+*   [lokles/Web-Development-Interview-With-Java](https://github.com/lokles/Web-Development-Interview-With-Java) - Java 开发相关技术栈（大中厂）高频面试问题收录。
+
+*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+
+*   [xbox1994/Java-Interview](https://github.com/xbox1994/Java-Interview) - 经历BAT面试后总结的【高级Java后台开发面试指南】，纯净干货无废话，针对高频面试点
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+
+*   [Thestrangercamus/On-constitution-amendment-NO.1](https://github.com/Thestrangercamus/On-constitution-amendment-NO.1) -
+
+*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+
+*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 
 ## Shell
 
@@ -490,8 +506,6 @@
 ## Vue
 
 *   [mrzym99/vue3-blog](https://github.com/mrzym99/vue3-blog) - 一个vue3技术栈的个人博客系统，包含博客前台、博客后台、博客后端服务
-
-*   [JiMei-University-Zhuang/Resume-Platform](https://github.com/JiMei-University-Zhuang/Resume-Platform) - 基于LLM的多Agent多模态职业规划平台
 
 *   [weiwosuoai/WeBlog](https://github.com/weiwosuoai/WeBlog) - 📗 Spring Boot + Vue 3.2 + Vite 4.3 前后端分离个人博客（可作为 Java 毕业设计项目）~ 感谢点个 Star 呀~
 
@@ -522,20 +536,6 @@
 *   [hefengxian/my-ielts](https://github.com/hefengxian/my-ielts) - 雅思词汇真经、雅思语法、听力 179、阅读 538  同义替换等。Everything during preparing for my IELTS exam.
 
 *   [Mysakura/frontend-maven-plugin-demo](https://github.com/Mysakura/frontend-maven-plugin-demo) - frontend-maven-plugin（npm和yarn两种）
-
-## TypeScript
-
-*   [liangdabiao/wordpress\_kefu\_ai\_agent](https://github.com/liangdabiao/wordpress_kefu_ai_agent) - 自适应智能客服项目（Agentic agent）。不用coze/dify，适合程序员的智能客服，自己编程做一个可控的能够完成工作的客服，只需要2个简单文件，稍微配置一下就实现.适合wordpress /其他的
-
-*   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
-
-*   [daggerok/frontend-maven-plugin-example](https://github.com/daggerok/frontend-maven-plugin-example) - frontend-maven-plugin usage
-
-*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
-
-*   [fjc0k/docker-YApi](https://github.com/fjc0k/docker-YApi) - 接口管理平台 YApi 的 Docker 镜像。
-
-*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 
 ## HTML
 
