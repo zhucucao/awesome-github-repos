@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-*   [TypeScript](#typescript)
 *   [Java](#java)
+*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -21,23 +21,9 @@
 *   [Objective-C](#objective-c)
 *   [C++](#c)
 
-## TypeScript
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-
-*   [liangdabiao/wordpress\_kefu\_ai\_agent](https://github.com/liangdabiao/wordpress_kefu_ai_agent) - 自适应智能客服项目（Agentic agent）。不用coze/dify，适合程序员的智能客服，自己编程做一个可控的能够完成工作的客服，只需要2个简单文件，稍微配置一下就实现.适合wordpress /其他的
-
-*   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN.
-
-*   [daggerok/frontend-maven-plugin-example](https://github.com/daggerok/frontend-maven-plugin-example) - frontend-maven-plugin usage
-
-*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
-
-*   [fjc0k/docker-YApi](https://github.com/fjc0k/docker-YApi) - 接口管理平台 YApi 的 Docker 镜像。
-
-*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-
 ## Java
+
+*   [zifangsky/WebSocketDemo](https://github.com/zifangsky/WebSocketDemo) - 在Spring Boot中使用WebSocket，示例包括简单模式、STOMP模式消息、处理对方不在线情况、分布式WebSocket等。
 
 *   [bytedeco/javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 
@@ -351,6 +337,22 @@
 
 *   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 
+## TypeScript
+
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+*   [liangdabiao/wordpress\_kefu\_ai\_agent](https://github.com/liangdabiao/wordpress_kefu_ai_agent) - 自适应智能客服项目（Agentic agent）。不用coze/dify，适合程序员的智能客服，自己编程做一个可控的能够完成工作的客服，只需要2个简单文件，稍微配置一下就实现.适合wordpress /其他的
+
+*   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - Web search mcp using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
+
+*   [daggerok/frontend-maven-plugin-example](https://github.com/daggerok/frontend-maven-plugin-example) - frontend-maven-plugin usage
+
+*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
+
+*   [fjc0k/docker-YApi](https://github.com/fjc0k/docker-YApi) - 接口管理平台 YApi 的 Docker 镜像。
+
+*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
+
 ## JavaScript
 
 *   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
@@ -500,8 +502,6 @@
 *   [233boy/ss](https://github.com/233boy/ss) - Shadowsocks-Go 一键安装脚本 & 管理脚本
 
 *   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 
 ## Vue
 
