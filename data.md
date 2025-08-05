@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
-*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
@@ -21,121 +21,9 @@
 *   [Objective-C](#objective-c)
 *   [C++](#c)
 
-## Vue
-
-*   [xiaozhao-66/Springboot-vue-xiaohongshu](https://github.com/xiaozhao-66/Springboot-vue-xiaohongshu) - 一个仿照小红书和堆糖页面设计的基于springboot和vue的uniapp项目，支持短信发送，对象存储，私信聊天等多种功能。
-
-*   [zhengqingya/xiao-xiao-su](https://github.com/zhengqingya/xiao-xiao-su) - 基于Spring Boot+Spring Security+JWT+Vue前后端分离的旺旺小小酥  ( 一口一口又香又脆❤~ )
-
-*   [mrzym99/vue3-blog](https://github.com/mrzym99/vue3-blog) - 一个vue3技术栈的个人博客系统，包含博客前台、博客后台、博客后端服务
-
-*   [weiwosuoai/WeBlog](https://github.com/weiwosuoai/WeBlog) - 📗 Spring Boot + Vue 3.2 + Vite 4.3 前后端分离个人博客（可作为 Java 毕业设计项目）~ 感谢点个 Star 呀~
-
-*   [godbasin/vue-element-demo](https://github.com/godbasin/vue-element-demo) - 用vue+element快速拼接页面教程+代码示例
-
-*   [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗     vue教程 --- 从0-1高仿饿了么App
-
-*   [ittus/vuejs-firebase-shopping-cart](https://github.com/ittus/vuejs-firebase-shopping-cart) - Shopping cart demo using Vuejs and Firebase
-
-*   [shuiRong/VueCnodeJS](https://github.com/shuiRong/VueCnodeJS) - ⚽️🎉Vue初/中级项目，CnodeJS社区重构。( a junior project of Vue.js, rewrite cnodejs.org ) 预览(DEMO)：
-
-*   [Awheat/vue2-douban-market](https://github.com/Awheat/vue2-douban-market) - 一个vue全家桶入门Demo ！
-
-*   [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
-
-*   [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
-
-*   [zccbbg/RuoYi-WMS-VUE](https://github.com/zccbbg/RuoYi-WMS-VUE) - 若依wms是一套基于若依的wms仓库管理系统，支持lodop和网页打印入库单、出库单。包括仓库/库区/货架管理，出入库管理，客户/供应商/承运商，库存看板、库存记录等功能。
-
-*   [Alanosy/online-exam-system-frontend](https://github.com/Alanosy/online-exam-system-frontend) - 校园在线考试系统前端
-
-*   [mynameisly/HotelManagement](https://github.com/mynameisly/HotelManagement) - 酒店管理系统（vue+springboot）
-
-*   [hefengxian/my-ielts](https://github.com/hefengxian/my-ielts) - 雅思词汇真经、雅思语法、听力 179、阅读 538  同义替换等。Everything during preparing for my IELTS exam.
-
-*   [Mysakura/frontend-maven-plugin-demo](https://github.com/Mysakura/frontend-maven-plugin-demo) - frontend-maven-plugin（npm和yarn两种）
-
-## miscellaneous
-
-*   [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
-
-*   [zhjrate/yshop-drink](https://github.com/zhjrate/yshop-drink) - yshop意向点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，基础技术Java，uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统
-
-*   [spring-ai-community/awesome-spring-ai](https://github.com/spring-ai-community/awesome-spring-ai) - A curated list of awesome resources, tools, tutorials, and projects for building generative AI applications using Spring AI
-
-*   [webVueBlog/webVueBlog](https://github.com/webVueBlog/webVueBlog) - 🌱 面向 🤔 JavaScript爱好人员提供：👋 原创内容、JavaScript、HTML5、Node.js、Vue.js、React等一系列教程和经验分享 👍。
-
-*   [Sweet-KK/css-layout](https://github.com/Sweet-KK/css-layout) - 各种常见布局CSS实现,知名网站布局分析,相关阅读推荐
-
-*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
-
-*   [cuizhenjie/software-engineering-document](https://github.com/cuizhenjie/software-engineering-document) - 软件工程常用文档模板及示例：可行性分析报告、开发计划、需求分析文档、概要设计文档、详细设计文档、用户操作手册、测试计划、测试分析报告、开发进度报告、项目开发总结报告、软件维护手册等
-
-*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
-
-*   [BookaiCode/JavaRecord](https://github.com/BookaiCode/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
-
-*   [xgit01/sgkrank](https://github.com/xgit01/sgkrank) - 2024最新免费社工库排行
-
-*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-
-*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
-
-*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [Admol/SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide）
-
-*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
-
-*   [EthanLin-TWer/ielts](https://github.com/EthanLin-TWer/ielts) - IELTS guide and Cambridge English authentic examination papers (4-15, A+G) for programmers. 程序员雅思备考指南+剑雅4-15真题（A类+G类）全套。
-
-*   [wukaipeng-dev/IELTS](https://github.com/wukaipeng-dev/IELTS) - 🎇 雅思讲解、资料、备考
-
-*   [apache/flink-connector-redis-streams](https://github.com/apache/flink-connector-redis-streams) - Apache flink
-
-*   [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
-
-*   [Fooxi/ttest](https://github.com/Fooxi/ttest) - 个人数据泄漏检测网站，适用于 QQ / 京东 / 顺丰 / 微博。
-
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-*   [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
-
-*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
-
-*   [Greatandy/leetcode](https://github.com/Greatandy/leetcode) -
-
-*   [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
-
-*   [cosen1024/Java-Interview](https://github.com/cosen1024/Java-Interview) - 「Java面试小抄」一份通向理想互联网公司的面试汇总，包括 Java基础、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、计算机操作系统、计算机网络、系统设计、分布式、Java 项目实战等
-
-*   [lokles/Web-Development-Interview-With-Java](https://github.com/lokles/Web-Development-Interview-With-Java) - Java 开发相关技术栈（大中厂）高频面试问题收录。
-
-*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
-
-*   [xbox1994/Java-Interview](https://github.com/xbox1994/Java-Interview) - 经历BAT面试后总结的【高级Java后台开发面试指南】，纯净干货无废话，针对高频面试点
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-
-*   [Thestrangercamus/On-constitution-amendment-NO.1](https://github.com/Thestrangercamus/On-constitution-amendment-NO.1) -
-
-*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-
-*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
-
 ## Java
+
+*   [201206030/novel-cloud](https://github.com/201206030/novel-cloud) - novel-cloud 是基于 novel 构建的 Spring Cloud 微服务技术栈学习型小说项目。选用了 Spring Boot 3 、Spring Cloud 2022、Spring Cloud Alibaba 2022、MyBatis-Plus、ShardingSphere-JDBC、Redis、RabbitMQ、Elasticsearch 、XXL-JOB 等流行技术。
 
 *   [feiniaojin/graceful-response](https://github.com/feiniaojin/graceful-response) - Spring Boot接口响应处理解决方案，提供统一返回值封装、全局异常处理、自定义异常错误码、参数校验增强、断言增强等功能
 
@@ -451,7 +339,119 @@
 
 *   [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 
-*   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
+## Vue
+
+*   [xiaozhao-66/Springboot-vue-xiaohongshu](https://github.com/xiaozhao-66/Springboot-vue-xiaohongshu) - 一个仿照小红书和堆糖页面设计的基于springboot和vue的uniapp项目，支持短信发送，对象存储，私信聊天等多种功能。
+
+*   [zhengqingya/xiao-xiao-su](https://github.com/zhengqingya/xiao-xiao-su) - 基于Spring Boot+Spring Security+JWT+Vue前后端分离的旺旺小小酥  ( 一口一口又香又脆❤~ )
+
+*   [mrzym99/vue3-blog](https://github.com/mrzym99/vue3-blog) - 一个vue3技术栈的个人博客系统，包含博客前台、博客后台、博客后端服务
+
+*   [weiwosuoai/WeBlog](https://github.com/weiwosuoai/WeBlog) - 📗 Spring Boot + Vue 3.2 + Vite 4.3 前后端分离个人博客（可作为 Java 毕业设计项目）~ 感谢点个 Star 呀~
+
+*   [godbasin/vue-element-demo](https://github.com/godbasin/vue-element-demo) - 用vue+element快速拼接页面教程+代码示例
+
+*   [Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele) - 🥗🥗     vue教程 --- 从0-1高仿饿了么App
+
+*   [ittus/vuejs-firebase-shopping-cart](https://github.com/ittus/vuejs-firebase-shopping-cart) - Shopping cart demo using Vuejs and Firebase
+
+*   [shuiRong/VueCnodeJS](https://github.com/shuiRong/VueCnodeJS) - ⚽️🎉Vue初/中级项目，CnodeJS社区重构。( a junior project of Vue.js, rewrite cnodejs.org ) 预览(DEMO)：
+
+*   [Awheat/vue2-douban-market](https://github.com/Awheat/vue2-douban-market) - 一个vue全家桶入门Demo ！
+
+*   [zxwk1998/vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [Hacker233/resume-design](https://github.com/Hacker233/resume-design) - 猫步简历 – 一款开源免费的简历制作神器，支持导出超高清PDF、图片、源码级JSON数据等，AI简历生成、AI润色、AI语种翻译等。提供海量在线制作模版、主题任意切换、高度定制化的简历模块。使用猫步简历，您可以制作出一份独特、优美、专业的求职简历。
+
+*   [Yin-Hongwei/music-website](https://github.com/Yin-Hongwei/music-website) - 🎧 Vue + SpringBoot + MyBatis 音乐网站
+
+*   [zccbbg/RuoYi-WMS-VUE](https://github.com/zccbbg/RuoYi-WMS-VUE) - 若依wms是一套基于若依的wms仓库管理系统，支持lodop和网页打印入库单、出库单。包括仓库/库区/货架管理，出入库管理，客户/供应商/承运商，库存看板、库存记录等功能。
+
+*   [Alanosy/online-exam-system-frontend](https://github.com/Alanosy/online-exam-system-frontend) - 校园在线考试系统前端
+
+*   [mynameisly/HotelManagement](https://github.com/mynameisly/HotelManagement) - 酒店管理系统（vue+springboot）
+
+*   [hefengxian/my-ielts](https://github.com/hefengxian/my-ielts) - 雅思词汇真经、雅思语法、听力 179、阅读 538  同义替换等。Everything during preparing for my IELTS exam.
+
+*   [Mysakura/frontend-maven-plugin-demo](https://github.com/Mysakura/frontend-maven-plugin-demo) - frontend-maven-plugin（npm和yarn两种）
+
+## miscellaneous
+
+*   [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
+
+*   [zhjrate/yshop-drink](https://github.com/zhjrate/yshop-drink) - yshop意向点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，基础技术Java，uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统
+
+*   [spring-ai-community/awesome-spring-ai](https://github.com/spring-ai-community/awesome-spring-ai) - A curated list of awesome resources, tools, tutorials, and projects for building generative AI applications using Spring AI
+
+*   [webVueBlog/webVueBlog](https://github.com/webVueBlog/webVueBlog) - 🌱 面向 🤔 JavaScript爱好人员提供：👋 原创内容、JavaScript、HTML5、Node.js、Vue.js、React等一系列教程和经验分享 👍。
+
+*   [Sweet-KK/css-layout](https://github.com/Sweet-KK/css-layout) - 各种常见布局CSS实现,知名网站布局分析,相关阅读推荐
+
+*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
+
+*   [cuizhenjie/software-engineering-document](https://github.com/cuizhenjie/software-engineering-document) - 软件工程常用文档模板及示例：可行性分析报告、开发计划、需求分析文档、概要设计文档、详细设计文档、用户操作手册、测试计划、测试分析报告、开发进度报告、项目开发总结报告、软件维护手册等
+
+*   [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page\_facing\_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
+
+*   [BookaiCode/JavaRecord](https://github.com/BookaiCode/JavaRecord) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。打造Java后端知识体系，帮助Java初学者成长
+
+*   [xgit01/sgkrank](https://github.com/xgit01/sgkrank) - 2024最新免费社工库排行
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+
+*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
+
+*   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [Admol/SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide）
+
+*   [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
+
+*   [EthanLin-TWer/ielts](https://github.com/EthanLin-TWer/ielts) - IELTS guide and Cambridge English authentic examination papers (4-15, A+G) for programmers. 程序员雅思备考指南+剑雅4-15真题（A类+G类）全套。
+
+*   [wukaipeng-dev/IELTS](https://github.com/wukaipeng-dev/IELTS) - 🎇 雅思讲解、资料、备考
+
+*   [apache/flink-connector-redis-streams](https://github.com/apache/flink-connector-redis-streams) - Apache flink
+
+*   [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+
+*   [Fooxi/ttest](https://github.com/Fooxi/ttest) - 个人数据泄漏检测网站，适用于 QQ / 京东 / 顺丰 / 微博。
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+*   [ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena) - Java后端知识图谱🔥 帮助Java初学者成长
+
+*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+
+*   [Greatandy/leetcode](https://github.com/Greatandy/leetcode) -
+
+*   [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
+
+*   [cosen1024/Java-Interview](https://github.com/cosen1024/Java-Interview) - 「Java面试小抄」一份通向理想互联网公司的面试汇总，包括 Java基础、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、计算机操作系统、计算机网络、系统设计、分布式、Java 项目实战等
+
+*   [lokles/Web-Development-Interview-With-Java](https://github.com/lokles/Web-Development-Interview-With-Java) - Java 开发相关技术栈（大中厂）高频面试问题收录。
+
+*   [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) - Java资源大全中文版，包括开发库、开发工具、网站、博客、微信、微博等，由伯乐在线持续更新。
+
+*   [xbox1994/Java-Interview](https://github.com/xbox1994/Java-Interview) - 经历BAT面试后总结的【高级Java后台开发面试指南】，纯净干货无废话，针对高频面试点
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [AobingJava/JavaFamily](https://github.com/AobingJava/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+
+*   [Thestrangercamus/On-constitution-amendment-NO.1](https://github.com/Thestrangercamus/On-constitution-amendment-NO.1) -
+
+*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+
+*   [getlantern/download](https://github.com/getlantern/download) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [csseky/cskaoyan](https://github.com/csseky/cskaoyan) - 提供计算机考研和软件工程考研专业的各个学校 考研真题
 
 ## TypeScript
 
