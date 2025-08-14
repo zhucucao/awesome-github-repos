@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
 *   [Vue](#vue)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [HTML](#html)
@@ -20,6 +20,24 @@
 *   [Go](#go)
 *   [Objective-C](#objective-c)
 *   [C++](#c)
+
+## TypeScript
+
+*   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+
+*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+
+*   [liangdabiao/wordpress\_kefu\_ai\_agent](https://github.com/liangdabiao/wordpress_kefu_ai_agent) - 自适应智能客服项目（Agentic agent）。不用coze/dify，适合程序员的智能客服，自己编程做一个可控的能够完成工作的客服，只需要2个简单文件，稍微配置一下就实现.适合wordpress /其他的
+
+*   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - Web search mcp using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
+
+*   [daggerok/frontend-maven-plugin-example](https://github.com/daggerok/frontend-maven-plugin-example) - frontend-maven-plugin usage
+
+*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
+
+*   [fjc0k/docker-YApi](https://github.com/fjc0k/docker-YApi) - 接口管理平台 YApi 的 Docker 镜像。
+
+*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
 
 ## miscellaneous
 
@@ -461,22 +479,6 @@
 
 *   [Mysakura/frontend-maven-plugin-demo](https://github.com/Mysakura/frontend-maven-plugin-demo) - frontend-maven-plugin（npm和yarn两种）
 
-## TypeScript
-
-*   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-
-*   [liangdabiao/wordpress\_kefu\_ai\_agent](https://github.com/liangdabiao/wordpress_kefu_ai_agent) - 自适应智能客服项目（Agentic agent）。不用coze/dify，适合程序员的智能客服，自己编程做一个可控的能够完成工作的客服，只需要2个简单文件，稍微配置一下就实现.适合wordpress /其他的
-
-*   [Aas-ee/open-webSearch](https://github.com/Aas-ee/open-webSearch) - Web search mcp using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin and CSDN.
-
-*   [daggerok/frontend-maven-plugin-example](https://github.com/daggerok/frontend-maven-plugin-example) - frontend-maven-plugin usage
-
-*   [BilibiliVideoDownload/BilibiliVideoDownload](https://github.com/BilibiliVideoDownload/BilibiliVideoDownload) - Cross-platform download bilibili video desktop software, support windows, macOS, Linux
-
-*   [fjc0k/docker-YApi](https://github.com/fjc0k/docker-YApi) - 接口管理平台 YApi 的 Docker 镜像。
-
-*   [thx/rap2-delos](https://github.com/thx/rap2-delos) - 阿里妈妈前端团队出品的开源接口管理工具RAP第二代
-
 ## JavaScript
 
 *   [tonngw/awesome-github-repos](https://github.com/tonngw/awesome-github-repos) - 🚀 A curated collection of awesome GitHub repositories, organized by language and topic from my starred projects. Modern, elegant platform for showcasing your starred GitHub repositories.
@@ -622,8 +624,6 @@
 *   [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 
 *   [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
-
-*   [instillai/TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) - :satellite: Simple and ready-to-use tutorials for TensorFlow
 
 ## Scala
 
