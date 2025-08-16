@@ -451,7 +451,7 @@
 
 *   [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion GoLand DataGrip Rider MPS Android Studio
 
-*   [yzcheng90/X-SpringBoot](https://github.com/yzcheng90/X-SpringBoot) - X-SpringBoot是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
+*   [yzcheng90/x-springboot](https://github.com/yzcheng90/x-springboot) - X-SpringBoot是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
 
 *   [spring-projects/spring-session](https://github.com/spring-projects/spring-session) - Spring Session
 
