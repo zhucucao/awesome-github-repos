@@ -295,6 +295,8 @@
 
 *   [dromara/MaxKey](https://github.com/dromara/MaxKey) - Dromara 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product , Under Apache-2.0 is free ，业界领先的IAM-IDaas身份管理和认证产品，遵循Apache-2.0开源免费，支持OAuth2.x、OpenID Connect、SAML2.0、CAS、JWT、SCIM等SSO标准协议，基于RBAC统一权限控制，实现用户生命周期管理，开源、安全、合规、自主可控。
 
+*   [dromara/skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统\[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
+
 *   [talkpoin/ruoyi-spring-boot-all](https://github.com/talkpoin/ruoyi-spring-boot-all) - 芋道源码(无遮羞布版)
 
 *   [chengxy-nds/Springboot-Notebook](https://github.com/chengxy-nds/Springboot-Notebook) - Springboot-Notebook 一个以 springboot 为基础开发框架， 整合 Redis 、Mysql 、 Rabbitmq 、ES 、MongoDB、sharding-jdbc 分库分表、zookeeper 、web人脸识别 、实时消息推送 、SQL优化、注册中心 、数据脱敏 等互联网主流技术， 文章图解理论配合实战案例，实现开发中常见功能点的综合项目。 本着拿来即用的原则，助力于减少开发者在工作中的学习成本。
@@ -496,8 +498,6 @@
 *   [kenberkeley/vue-demo](https://github.com/kenberkeley/vue-demo) - Vue.js 示例项目 · 简易留言板。本项目拥有完善的文档说明与注释，让您快速上手 Vue.js 开发 SPA。Webpack / ES6 + Babel / Vue Router / (Vue Resource?) / (Vue Validator?) / (Vuex?)  —— An Excellent Vue Starter with Best Practice / 最佳实践
 
 *   [liangxiaojuan/vue-todos](https://github.com/liangxiaojuan/vue-todos) - vue最新实战项目教程，从零开始，一步一个脚印,循序渐进。跟着我一起学习vue吧！
-
-*   [dromara/skyeye](https://github.com/dromara/skyeye) - 智能办公OA系统\[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存、项目、拖拽式生成问卷、日程、笔记、计划、行政等多种复杂业务功能。同时，可进行授权二开。
 
 *   [shuhongfan/GuliMall](https://github.com/shuhongfan/GuliMall) - gulimall（谷粒商城） 项目是一套电商项目，包括前台商城系统以及后台管理系统，基于 SpringCloud + SpringCloudAlibaba + MyBatis-Plus实现，采用 Docker 容器化部署。前台商城系统包括：用户登录、注册、商品搜索、商品详情、购物车、下订单流程、秒杀活动等模块。后台管理系统包括：系统管理、商品系统、优惠营销、库存系统、订单系统、用户系统、内容管理等七大模块。
 
